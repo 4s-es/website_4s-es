@@ -9,7 +9,7 @@ show_sidebar: false
 image: /bulma-clan-theme/img/recipe-example.jpg
 hero_image: /bulma-clean-theme/img/recipe-example.jpg
 hero_darken: true
-keywords: recipe,cooking
+keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 ---
 
 ## Hallo Welt 
