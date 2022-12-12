@@ -1,6 +1,6 @@
 remote_theme: PfeifferChPT/c-pfeiffer-template
 theme_color: '#374758'
-footer_menu: example_footer_menu
+footer_menu: footer_menu
 hide_footer: true
 
 # Site Settings
@@ -13,7 +13,7 @@ description: >
 baseurl: "/"
 url: "https://xp.c-pfeiffer.de"
 permalink: pretty
-#favicon: /favicon.png
+#favicon: /assets/favicon/hosting1.png
 
 paginate: 5
 paginate_path: "/blog/page:num"
