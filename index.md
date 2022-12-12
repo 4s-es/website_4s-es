@@ -10,19 +10,10 @@ hero_image: /assets/img/bg/server1.jpg
 hero_darken: true
 keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 ---
-
-    <div class="column is-4">
-        <div class="box has-text-centered">
 ## Hallo Welt
-        </div>
-    </div> 
 dies ist eine Domain zur Verwaltung meiner privaten (v-)Server.  
 Es gibt hier keine Hosting Pakete und keine ähnlichen Dienste zu kaufen und nicht zu Mieten.
 
-    <div class="column is-4">
-        <div class="box has-text-centered">
 ## Hello World
-        </div>
-    </div>  
 this is a domain to manage my private (v-)server. 
 There are no hosting packages or similar services to buy or rent here.
