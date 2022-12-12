@@ -1,6 +1,6 @@
 - name: Kontakt
   link: https://goto.pc-cdn.de/kontakt
-dropdown: 
+  dropdown: 
     - name: Impressum
       link: https://goto.pc-cdn.de/impressum
     - name: Haftungsausschluss
