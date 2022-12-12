@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: www.c-pfeiffer.de
-subtitle: NO Hosting-Provider
+subtitle: is not a hosting provider
 author: PC-CDN
 date: 2022-12-11
 show_sidebar: false
