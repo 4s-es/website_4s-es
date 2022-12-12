@@ -1,13 +1,13 @@
 ---
 layout: recipe
-title: c-pfeiffer.de - no public hosting
+title: www.c-pfeiffer.de
 subtitle: NO Hosting-Provider
 description: c-pfeiffer.de - no public hosting / NO Hosting-Provider
 author: PC-CDN
 date: 2022-12-11
 show_sidebar: false
-image: /bulma-clan-theme/img/recipe-example.jpg
-hero_image: /bulma-clean-theme/img/recipe-example.jpg
+image: /assets/img/bg/server1.jpg
+hero_image: /assets/img/bg/server1.jpg
 hero_darken: true
 keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 ---
