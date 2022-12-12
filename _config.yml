@@ -6,12 +6,12 @@ hide_footer: true
 # Site Settings
 lang: de
 title: c-pfeiffer.de
-tagline: Bulma Clean Theme
+tagline: C-PFEIFFER.DE / PC-CDN
 email: 
 description: >
   c-pfeiffer.de - no public hosting / NO Hosting-Provider
-baseurl: "/website_nw_www.c-pfeiffer.de/"
-url: "https://pc-cdn.github.io"
+baseurl: "/"
+url: "https://xp.c-pfeiffer.de"
 permalink: pretty
 #favicon: /favicon.png
 
