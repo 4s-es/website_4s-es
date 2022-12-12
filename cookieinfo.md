@@ -1,6 +1,6 @@
 ---
 title: cookie info page
-layout: default
+layout: recipe
 permalink: /cookieinfo.html
 image: /assets/img/bg/server2.jpg
 hero_image: /assets/img/bg/server2.jpg
