@@ -1,0 +1,13 @@
+- name: Kontakt
+  link: https://goto.pc-cdn.de/kontakt
+dropdown: 
+    - name: Impressum
+      link: https://goto.pc-cdn.de/impressum
+    - name: Haftungsausschluss
+      link: https://goto.pc-cdn.de/haftungsausschluss
+    - name: Datenschutz
+      link: https://goto.pc-cdn.de/datenschutz
+    - name: Quellennachweise
+      link: https://goto.pc-cdn.de/quellenangaben
+    - name: Cookie-Infos
+      link: /cookieinfo.html
