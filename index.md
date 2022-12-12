@@ -1,5 +1,5 @@
 ---
-layout: recipe
+layout: default
 title: www.c-pfeiffer.de
 subtitle: NO Hosting-Provider
 author: PC-CDN
