@@ -1,5 +1,7 @@
 remote_theme: PfeifferchsForks/bulma-clean-theme
 theme_color: '#374758'
+footer_menu: example_footer_menu
+hide_footer: true
 
 # Site Settings
 lang: de
@@ -7,7 +9,7 @@ title: c-pfeiffer.de
 tagline: Bulma Clean Theme
 email: 
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  c-pfeiffer.de - no public hosting / NO Hosting-Provider
 baseurl: "/website_nw_www.c-pfeiffer.de/"
 url: "https://pc-cdn.github.io"
 permalink: pretty
@@ -59,8 +61,6 @@ defaults:
 
 markdown: kramdown
 highlighter: rouge
-
-footer_menu: example_footer_menu
 
 collections:
   products: 
