@@ -2,6 +2,10 @@
 title: cookie info page
 layout: default
 permalink: /cookieinfo.html
+image: /assets/img/bg/server2.jpg
+hero_image: /assets/img/bg/server2.jpg
+hero_darken: true
+keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 ---
 <p>This is an cookie info page.</p>
 
