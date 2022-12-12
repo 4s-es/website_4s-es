@@ -13,7 +13,7 @@ description: >
 baseurl: "/"
 url: "https://xp.c-pfeiffer.de"
 permalink: pretty
-#favicon: /assets/favicon/hosting1.png
+favicon: /assets/favicon/hosting1.png
 
 paginate: 5
 paginate_path: "/blog/page:num"
