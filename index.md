@@ -10,7 +10,6 @@ hero_image: /assets/img/bg/server1.jpg
 hero_darken: true
 keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 ---
-{% include tag.html tag={{ page.keywords }} %}
 
 ## Hallo Welt
 dies ist eine Domain zur Verwaltung meiner privaten (v-)Server.  
