@@ -2,7 +2,6 @@
 layout: recipe
 title: www.c-pfeiffer.de
 subtitle: NO Hosting-Provider
-description: c-pfeiffer.de - no public hosting / NO Hosting-Provider
 author: PC-CDN
 date: 2022-12-11
 show_sidebar: false
