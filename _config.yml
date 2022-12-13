@@ -3,7 +3,7 @@ remote_theme: PfeifferChPT/c-pfeiffer-template
 theme_color: '#374758'
 footer_menu: footer_menu
 hide_footer: true
-
+author: PC-CDN 
 # Site Settings
 lang: de
 title: c-pfeiffer.de
