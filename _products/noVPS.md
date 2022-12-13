@@ -1,8 +1,8 @@
 ---
-title: No website-hosting
+title: No vServer
 subtitle: no costs but also no service
 description: No website-hosting - no costs but also no service
-product_code: nwh
+product_code: nvps
 layout: product
 image: https://via.placeholder.com/640x480
 price: €0.00 + MwSt
