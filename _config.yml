@@ -1,4 +1,4 @@
-remote_theme: PfeifferChPT/pc-cdn-template
+# remote_theme: PfeifferChPT/pc-cdn-template
 remote_theme: PfeifferChPT/c-pfeiffer-template
 theme_color: '#374758'
 footer_menu: footer_menu
