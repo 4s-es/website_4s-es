@@ -8,11 +8,19 @@ image: https://via.placeholder.com/640x480
 price: €0.00 + MwSt
 features:
     - label: No costs
-      icon: fa-location-arrow
+      icon: fa-euro-sign
     - label: No Website-Hosting
-      icon: fa-grin-stars
+      icon: fa-browser
     - label: without PHP, mySQL
-      icon: fa-fighter-jet
+      icon: fa-php
+    - label: 0 GB SSD Storage
+      icon: fa-hard-drive
+    - label: ~0 Visits Monthly 
+      icon: fa-eye-slash
+    - label: no Email 
+      icon: fa-envelope
+    - label: zero Bandwidth 
+      icon: fa-router
 rating: 0
 ---
 
