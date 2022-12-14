@@ -4,7 +4,8 @@ subtitle: no costs but also no service
 description: No E-Mail Service - no costs but also no service
 product_code: nms
 layout: product
-image: https://via.placeholder.com/640x480
+show_sidebar: false
+image: /assets/img/bg/mailserver.png
 price: €0.00 + MwSt
 features:
     - label: No costs
