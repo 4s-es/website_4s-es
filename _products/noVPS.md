@@ -4,7 +4,7 @@ subtitle: no costs but also no service
 description: No website-hosting - no costs but also no service
 product_code: nvs
 layout: product
-image: https://via.placeholder.com/640x480
+image: /assets/img/bg/virtualmachinehost.svg
 price: €0.00 + MwSt
 features:
     - label: No costs
