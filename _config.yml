@@ -58,7 +58,7 @@ defaults:
     values:
       author: "PC-CDN"
       layout: post
-      image: /assets/img/bg/server2.jpg
+      image: /assets/img/bg/server1.jpg
       show_sidebar: false
 
 markdown: kramdown
@@ -70,3 +70,4 @@ collections:
     layout: product
     image: https://via.placeholder.com/800x600/374758/?text=www.c-pfeiffer.de
     show_sidebar: false
+    hero_image: /assets/img/bg/server2.jpg
