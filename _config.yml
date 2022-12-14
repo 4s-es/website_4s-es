@@ -13,7 +13,7 @@ email:
 description: >
   c-pfeiffer.de - no public hosting / not a hosting provider
 baseurl: "/"
-url: "https://xp.c-pfeiffer.de"
+url: "https://www.c-pfeiffer.de"
 permalink: pretty
 favicon: /assets/favicon/hosting1.png
 
