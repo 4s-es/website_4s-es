@@ -49,16 +49,17 @@ defaults:
       path: ""
       type: "pages"
     values:
-      show_sidebar: true
+      show_sidebar: false
+      image: /assets/img/bg/server1.jpg
   -
     scope:
       path: ""
       type: "posts"
     values:
-      author: "Christian"
+      author: "PC-CDN"
       layout: post
-      image: https://via.placeholder.com/1200x800
-      show_sidebar: true
+      image: /assets/img/bg/server2.jpg
+      show_sidebar: false
 
 markdown: kramdown
 highlighter: rouge
@@ -67,5 +68,5 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600
+    image: https://via.placeholder.com/800x600/374758/?text=www.c-pfeiffer.de
     show_sidebar: false
