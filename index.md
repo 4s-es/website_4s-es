@@ -13,8 +13,8 @@ keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 
 ## Hallo Welt
 dies ist eine Domain zur Verwaltung meiner privaten (v-)Server.  
-Es gibt hier keine Hosting Pakete und keine ähnlichen Dienste zu kaufen und nicht zu Mieten.
+[Es gibt hier keine Hosting Pakete und keine ähnlichen Dienste zu kaufen und nicht zu Mieten.](./products/)  
 
 ## Hello World
 this is a domain to manage my private (v-)server. 
-There are no hosting packages or similar services to buy or rent here.
+[There are no hosting packages or similar services to buy or rent here.](./products/)
