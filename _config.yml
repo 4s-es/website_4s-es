@@ -10,8 +10,7 @@ lang: de
 title: c-pfeiffer.de
 tagline: C-PFEIFFER.DE / PC-CDN
 email: 
-description: >
-  c-pfeiffer.de - no public hosting / not a hosting provider
+description: c-pfeiffer.de - no public hosting / not a hosting provider
 baseurl: "/"
 url: "https://www.c-pfeiffer.de"
 permalink: pretty
