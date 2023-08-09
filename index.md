@@ -18,4 +18,3 @@ keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 ## Hello World
 > this is a domain to manage my private (v-)server. 
 > [There are no hosting packages or similar services to buy or rent here.](./products/)
-  
