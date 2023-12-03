@@ -1,14 +1,12 @@
 ---
 id: 544
 title: GPA
+product_code: GPA
 date: '2015-10-29T10:26:16+00:00'
 author: bdriller
-layout: page
-guid: 'http://www.4stars-es.com/?page_id=544'
-video_type:
-    - '#NONE#'
+layout: product
+image: 
 ---
-
 ## <span style="color: #ff6600;">***General Purpose Analog (GPA)***</span>
 
 #### The GPA is a module for multiple analog processes in Flying Probe Testers for PCBs.
