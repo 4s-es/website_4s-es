@@ -2,7 +2,7 @@
 permalink: /news/
 title: News
 subtitle: Four Stars Engineering Systems (FourStars-ES)
-layout: blog
+layout: post
 sort: title
 show_sidebar: false
 image: /assets/img/bg/4ses.jpg
@@ -14,7 +14,7 @@ hero_darken: true
   <article>
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-{{ post.excerpt }}
+<blogspan>{{ post.excerpt }}</blogspan>
   </article>
 </ul>
 {% endfor %}
