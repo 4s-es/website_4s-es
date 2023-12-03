@@ -14,4 +14,4 @@ categories:
 
 FSES was founded June, 24 2009. After 10 years the team celebrated a party with business friends and family members.
 
- <figure class="wp-block-image">[![](http://www.4stars-es.com/wp-content/uploads/2019/07/FSES_TenYears-1024x509.jpg)](http://www.4stars-es.com/wp-content/uploads/2019/07/FSES_TenYears.jpg) <figcaption>10 Years Four Stars Engineering Systems</figcaption> </figure>Thanks to Lilly Singer creating the hand made poster as a nice present.
+[![](http://www.4stars-es.com/wp-content/uploads/2019/07/FSES_TenYears-1024x509.jpg)](http://www.4stars-es.com/wp-content/uploads/2019/07/FSES_TenYears.jpg) <figcaption>10 Years Four Stars Engineering Systems</figcaption> </figure>Thanks to Lilly Singer creating the hand made poster as a nice present.
