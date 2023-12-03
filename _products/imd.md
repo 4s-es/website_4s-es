@@ -1,14 +1,12 @@
 ---
-id: 501
 title: IMD
+product_code: IMD
 date: '2015-10-26T15:26:06+00:00'
 author: bdriller
-layout: page
-guid: 'http://www.4stars-es.com/?page_id=501'
-video_type:
-    - '#NONE#'
+layout: product
+features:
+    - label: High Resistance measurement up to 10 G-Ohm ( 10000 MOhm)
 ---
-
 ## ***Isolation Measuring Device (IMD)***
 
 #### The IMD is a device for isolation measurement in Flying Probe Testers for PCBs.
