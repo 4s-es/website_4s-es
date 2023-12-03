@@ -2,13 +2,8 @@
 layout: default
 title: ABOUT US 
 permalink: /index.html
-id: 2
 date: '2012-04-25T13:30:47+00:00'
 author: bdriller
-guid: 'http://neu.4stars-es.com/?page_id=2'
-video_type:
-    - '#NONE#'
-    - '#NONE#'
 ---
 
 ## <span style="color: #ff6347;">***Four Stars Engineering Systems*** (FourStars-ES)</span>
