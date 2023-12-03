@@ -5,13 +5,11 @@ layout: default
 <div class="columns is-multiline">
 
     <div class="column is-6">
-        <figure class="image is-4by3">
-         {% if page.image %}
-            <img src="{{ page.image }}" />
-         {% else %}
-            <!--img src="/assets/img/products/onepixel-transparent.png" style="height: 0px !important;width: 0px !important;" /-->
-         {% endif %}
+        {% if page.image %}
+        <figure class="image is-4by3">         
+          <img src="{{ page.image }}" />
         </figure>
+        {% endif %}
     </div>
 
     <div class="column is-6">
