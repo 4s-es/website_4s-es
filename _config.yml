@@ -1,6 +1,6 @@
 # remote_theme: PfeifferChPT/pc-cdn-template
 remote_theme: 4s-es/4ses-template
-theme_color: '#f1f1f1'
+theme_color: '#eeeeee'
 footer_menu: footer_menu
 hide_footer: true
 author: FourStars-ES
@@ -17,7 +17,7 @@ permalink: pretty
 favicon: /assets/favicon/hosting1.png
 
 paginate: 5
-paginate_path: "/blog/page:num"
+paginate_path: "/news/page:num"
 
 plugins:
   - jekyll-sitemap
@@ -53,12 +53,12 @@ defaults:
       image: /assets/img/bg/4ses.jpg
   -
     scope:
-      path: ""
+      path: "/news"
       type: "posts"
     values:
-      author: "PC-CDN"
+      author: "4s-es"
       layout: post
-      image: /assets/img/bg/server1.jpg
+      image: /assets/img/bg/4ses.jpg
       show_sidebar: false
 
 markdown: kramdown
@@ -68,6 +68,6 @@ collections:
   products: 
     output: true
     layout: product
-    image: https://via.placeholder.com/800x600/374758/?text=www.c-pfeiffer.de
+    image: https://via.placeholder.com/800x600/374758/?text=4stars-es.com
     show_sidebar: false
-    hero_image: /assets/img/bg/server2.jpg
+    hero_image: /assets/img/bg/4ses.jpg
