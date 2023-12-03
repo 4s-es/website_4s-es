@@ -1,5 +1,5 @@
 ---
-permalink: /news/
+permalink: /news-x/
 title: News
 subtitle: Four Stars Engineering Systems (FourStars-ES)
 layout: blog
