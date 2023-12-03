@@ -14,9 +14,9 @@ categories:
 
 Two Side Automation redesign for larger panel sizes now available.
 
-<div class="wp-caption alignleft" id="attachment_454" style="width: 515px">[![PCB in 2SWX format inside test-system](http://www.4stars-es.com/wp-content/uploads/2022/02/PCB-2SWX.jpg "DSC00766")](http://www.4stars-es.com/wp-content/uploads/2022/02/PCB-2SWX.jpg)PCB in 2SWX format inside test-system
+[![PCB in 2SWX format inside test-system](http://www.4stars-es.com/wp-content/uploads/2022/02/PCB-2SWX.jpg "DSC00766")](http://www.4stars-es.com/wp-content/uploads/2022/02/PCB-2SWX.jpg)PCB in 2SWX format inside test-system
 
-</div>PCB maximum width is extended from 460mm to 500mm in Versin 2SW and 2SWX.  
+PCB maximum width is extended from 460mm to 500mm in Versin 2SW and 2SWX.  
 PCB maximum height is extended from 325mm to 350mm in version 2SW.  
 PCB maximum height is extended from 325mm to 450mm in version 2SWX.
 
