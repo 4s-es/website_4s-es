@@ -6,7 +6,6 @@ hide_footer: true
 hide_share_buttons: true
 author: FourStars-ES
 since: 2009
-show_sidebar: true
 # Site Settings
 lang: en
 title: Four Stars Engineering Systems
@@ -52,7 +51,7 @@ defaults:
       type: "pages"
     values:
       hero_height: is-fullwidth
-      show_sidebar: false
+      show_sidebar: true
       image: /assets/img/bg/4ses.jpg
   -
     scope:
@@ -63,7 +62,7 @@ defaults:
       layout: post
       hero_height: is-fullwidth
       image: /assets/img/bg/4ses.jpg
-      show_sidebar: false
+      show_sidebar: true
 
 markdown: kramdown
 highlighter: rouge
