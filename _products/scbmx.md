@@ -4,12 +4,6 @@ date: '2022-02-02T09:22:54+00:00'
 author: bdriller
 product_code: SCBMX
 layout: product
-image: /assets/img/products/onepixel-transparent.png
-features:
-    - label: Generation of signals for Servo-Amplifiers and Motor-Controllers
-    - label: Handling of axis end- and reference-switches
-    - label: Handling of Encoder signals
-    - label: Test-Probe compression control measurement
 ---
 ## <span style="color: #ff6600;">***System Control Board (SCBMX)***</span>
 
