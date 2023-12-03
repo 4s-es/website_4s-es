@@ -4,8 +4,6 @@ product_code: IMD
 date: '2015-10-26T15:26:06+00:00'
 author: bdriller
 layout: product
-features:
-    - label: High Resistance measurement up to 10 G-Ohm ( 10000 MOhm)
 ---
 ## ***Isolation Measuring Device (IMD)***
 
