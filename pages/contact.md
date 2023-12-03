@@ -1,14 +1,9 @@
 ---
-id: 12
 title: 'Contact'
 permalink: contact/index.html
 date: '2012-04-25T13:36:20+00:00'
 author: CP
 layout: default
-guid: 'http://neu.4stars-es.com/?page_id=12'
-video_type:
-    - '#NONE#'
-    - '#NONE#'
 ---
 
 ### Four Stars Engineering Systems GmbH
@@ -16,7 +11,6 @@ video_type:
  **Geschäfts-Adresse / Business Address:**
   
 | Max-Planck-Straße 21a   65520 Bad Camberg   Germany | Tel: <span class="skype_c2c_print_container notranslate">+49 (0) 6434 9053576</span>   Fax: +49 (0) 6434 9091832 |
-|---|---|
 
  **Persons:**
 
