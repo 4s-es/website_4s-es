@@ -2,7 +2,7 @@
 title: 'OctaStar Software'
 date: '2022-01-31T15:56:43+00:00'
 author: ssheades
-product_code: GPA
+product_code: OSS
 layout: product
 image: /assets/img/products/onepixel-transparent.png
 features:
