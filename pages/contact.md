@@ -1,9 +1,10 @@
 ---
 id: 12
-title: 'C o n t a c t'
+title: 'Contact'
+permalink: contact/index.html
 date: '2012-04-25T13:36:20+00:00'
 author: CP
-layout: page
+layout: default
 guid: 'http://neu.4stars-es.com/?page_id=12'
 video_type:
     - '#NONE#'
