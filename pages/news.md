@@ -1,10 +1,13 @@
 ---
-id: 43
-title: 'News'
-permalink: /news/index.html
-date: '2012-04-25T15:04:12+00:00'
-author: CP
-layout: default
+permalink: /news/
+title: News
+subtitle: Four Stars Engineering Systems (FourStars-ES)
+layout: blog
+sort: title
+show_sidebar: false
+image: /assets/img/bg/4ses.jpg
+hero_image: /assets/img/bg/4ses.jpg
+hero_darken: true
 ---
 {% for post in site.posts offset:1 limit:99999 %}
 <ul>
