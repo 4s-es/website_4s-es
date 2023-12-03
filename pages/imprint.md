@@ -1,9 +1,10 @@
 ---
 id: 14
-title: 'I m p r i n t'
+title: 'Imprint'
+permalink: imprint/index.html
 date: '2012-04-25T13:37:38+00:00'
 author: bdriller
-layout: page
+layout: default
 guid: 'http://neu.4stars-es.com/?page_id=14'
 video_type:
     - '#NONE#'
