@@ -4,8 +4,7 @@ product_code: roboStar
 date: '2017-03-06T11:27:48+00:00'
 author: bdriller
 layout: product
-hero_image: /assets/img/bg
-/FSES_PCB_151-300x69.jpg
+hero_image: /assets/img/bg/FSES_PCB_151-300x69.jpg
 features:
     - label: Load PCB from Input-Stack into FPT.
     - label: Unload PCB from FPT to Good- or Bad-Stack.
