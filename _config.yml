@@ -51,6 +51,7 @@ defaults:
       path: ""
       type: "pages"
     values:
+      hero_height: is-fullwidth
       show_sidebar: false
       image: /assets/img/bg/4ses.jpg
   -
@@ -60,6 +61,7 @@ defaults:
     values:
       author: "4s-es"
       layout: post
+      hero_height: is-fullwidth
       image: /assets/img/bg/4ses.jpg
       show_sidebar: false
 
