@@ -7,8 +7,8 @@ layout: default
 ---
 
 ### Four Stars Engineering Systems GmbH
-  
-*Geschäfts-Adresse / Business Address:*  
+<br><br>  
+*Geschäfts-Adresse / Business Address:*  <br><br>
 Four Stars Engineering Systems GmbH  
 Max-Planck-Straße 21a  
 65520 Bad Camberg  
