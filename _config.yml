@@ -1,18 +1,18 @@
 # remote_theme: PfeifferChPT/pc-cdn-template
 remote_theme: 4s-es/4ses-template
-theme_color: '#374758'
+theme_color: '#f1f1f1'
 footer_menu: footer_menu
 hide_footer: true
 author: PC-CDN 
 since: 2019 #19.1.19
 # Site Settings
-lang: de
-title: c-pfeiffer.de
-tagline: C-PFEIFFER.DE / PC-CDN
+lang: en
+title: Four Stars Engineering Systems
+tagline: Four Stars Engineering Systems (FourStars-ES)
 email: 
-description: c-pfeiffer.de - no public hosting / not a hosting provider
+description: German firm dedicated to providing engineering solutions for the PCB production sector including support of newly introduced test systems
 baseurl: "/"
-url: "https://www.c-pfeiffer.de"
+url: "https://4ses.pc-tests.tk/"
 permalink: pretty
 favicon: /assets/favicon/hosting1.png
 
@@ -50,7 +50,7 @@ defaults:
       type: "pages"
     values:
       show_sidebar: false
-      image: /assets/img/bg/server1.jpg
+      image: /assets/img/bg/4ses.jpg
   -
     scope:
       path: ""
