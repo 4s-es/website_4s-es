@@ -54,6 +54,7 @@ defaults:
       hero_height: is-fullwidth
       show_sidebar: true
       image: /assets/img/bg/4ses.jpg
+      hero_image: /assets/img/bg/4ses.jpg
   -
     scope:
       path: "/news/"
@@ -63,6 +64,7 @@ defaults:
       layout: post
       hero_height: is-fullwidth
       image: /assets/img/bg/4ses.jpg
+      hero_image: /assets/img/bg/4ses.jpg
       show_sidebar: true
 
 markdown: kramdown
