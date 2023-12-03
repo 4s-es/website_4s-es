@@ -1,14 +1,16 @@
 ---
-id: 1127
 title: SCBMX
 date: '2022-02-02T09:22:54+00:00'
 author: bdriller
-layout: page
-guid: 'http://www.4stars-es.com/?page_id=1127'
-video_type:
-    - '#NONE#'
+product_code: SCBMX
+layout: product
+image: /assets/img/products/onepixel-transparent.png
+features:
+    - label: Generation of signals for Servo-Amplifiers and Motor-Controllers
+    - label: Handling of axis end- and reference-switches
+    - label: Handling of Encoder signals
+    - label: Test-Probe compression control measurement
 ---
-
 ## <span style="color: #ff6600;">***System Control Board (SCBMX)***</span>
 
 The **SCBMX** is a twenty eight axis, eight head motion controller for Flying Probe Testers.  
