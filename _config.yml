@@ -45,7 +45,6 @@ sass:
   source_dir: _sass
 
 defaults:
-  image: /assets/img/bg/4ses.jpg
   -
     scope:
       path: ""
