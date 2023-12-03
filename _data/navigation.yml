@@ -1,20 +1,11 @@
-
-- name: Home / About us
-  link: /
-
 - name: News
   link: /news/
-
 - name: Products
   link: /products/
-  
-- name: Kontakt
-  link: /contact
-  
-- name: Kontakt
-  link: imprint
+- name: Contact
+  link: /contact/
   dropdown: 
     - name: Imprint
-      link: /imprint
+      link: /imprint/
     - name: Cookie-Info
       link: /cookieinfo.html
