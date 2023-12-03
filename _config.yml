@@ -3,6 +3,7 @@ remote_theme: 4s-es/4ses-template
 theme_color: '#eeeeee'
 footer_menu: footer_menu
 hide_footer: true
+hide_share_buttons: true
 author: FourStars-ES
 since: 2009
 # Site Settings
@@ -53,7 +54,7 @@ defaults:
       image: /assets/img/bg/4ses.jpg
   -
     scope:
-      path: "/news"
+      path: "/news/"
       type: "posts"
     values:
       author: "4s-es"
