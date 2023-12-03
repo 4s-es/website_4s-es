@@ -4,8 +4,7 @@ product_code: GPA
 date: '2015-10-29T10:26:16+00:00'
 author: bdriller
 layout: product
-image: /assets/img/products
-/onepixel-transparent.png
+image: /assets/img/products/onepixel-transparent.png
 features:
     - label: Continuity measurement
     - label: Capacitance measurement
