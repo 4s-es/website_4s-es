@@ -1,11 +1,15 @@
 ---
-id: 544
 title: GPA
 product_code: GPA
 date: '2015-10-29T10:26:16+00:00'
 author: bdriller
 layout: product
 image: 
+features:
+    - label: Continuity measurement
+    - label: Capacitance measurement
+    - label: Four-Wire low resistance measurement
+    - label: Four-Wire component measurement
 ---
 ## <span style="color: #ff6600;">***General Purpose Analog (GPA)***</span>
 
