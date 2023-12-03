@@ -5,7 +5,6 @@ permalink: /cookieinfo.html
 image: /assets/img/bg/server2c.jpg
 hero_image: /assets/img/bg/server2c.jpg
 hero_darken: true
-keywords: Hosting,Webhosting,Webspace,Domain,Mail,SQL,MYSQL,Server,vServer
 show_sidebar: false
 ---
 <p>This is an cookie info page.</p>
