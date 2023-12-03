@@ -4,15 +4,6 @@ date: '2022-01-31T15:56:43+00:00'
 author: ssheades
 product_code: OSS
 layout: product
-image: /assets/img/products/onepixel-transparent.png
-features:
-    - label: Kelvin and Embedded Component Test Support
-    - label: 1000 Volt and 10 Giga Ohm Isolation Test Support.
-    - label: HiPot Testing
-    - label: Extended alignment and test functionality for specialized manufacturing processes.
-    - label: Extended error reporting and printout options.
-    - label: Work Order Based test reporting and statistic gathering.
-    - label: MES (Manufacturing Execution System) support.
 ---
 
 ## ***<span style="color: #ff6600;">Introducing the OctaStar Software</span>***
