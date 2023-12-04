@@ -4,7 +4,7 @@ product_code: GPA
 date: '2015-10-29T10:26:16+00:00'
 author: bdriller
 layout: product
-hero_image: /assets/img/bg/FSES_PCB_151-300x69.jpg
+hero_image: /assets/img/bg/ExampleBlueBoard.png
 ---
 ## <span style="color: #ff6600;">***General Purpose Analog (GPA)***</span>
 
