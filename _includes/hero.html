@@ -1,12 +1,11 @@
 <style>
-div#overlay-1 {
-width: 160px;
-height: 53px;
+#overlay-1 {
+width: auto;
+height: Auto;
 padding: 20px;
 background-color: #fff;
 opacity: 0.5;
 -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; /* IE8 */
-color: #000;
 }
 </style>
 <section class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold is-primary" {% if page.hero_image %} style="background: url('{{ page.hero_image  }}') no-repeat center left; background-size: cover;" {% else %} style="background: url('{{ site.hero_default_image  }}') no-repeat center left; background-size: cover;" {% endif %}>
