@@ -4,10 +4,7 @@ title: 'ProbeStar Software'
 date: '2012-04-25T13:40:37+00:00'
 author: CP
 layout: page
-guid: 'http://neu.4stars-es.com/?page_id=16'
-video_type:
-    - '#NONE#'
-    - '#NONE#'
+hero_image: ExampleBlueSoft.png
 ---
 
 ## <span style="color: #ff6600;">***Introducing the ProbeStar Software***</span>
