@@ -4,9 +4,7 @@ title: roboStar-2S
 date: '2019-04-22T08:10:43+00:00'
 author: bdriller
 layout: page
-guid: 'http://www.4stars-es.com/?page_id=903'
-video_type:
-    - '#NONE#'
+hero_image: /assets/img/bg/ExampleBlueBoard.png
 ---
 
 ## <span style="color: #ff6600;">***Dual Side Automation for Flying Probe Testers*** </span>
