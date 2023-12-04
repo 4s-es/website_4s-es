@@ -4,7 +4,7 @@ date: '2022-01-31T15:56:43+00:00'
 author: ssheades
 product_code: OSS
 layout: product
-hero_image: ExampleBlueSoft.png
+hero_image: /assets/img/bg/ExampleBlueSoft.png
 ---
 
 ## ***<span style="color: #ff6600;">Introducing the OctaStar Software</span>***
