@@ -4,12 +4,7 @@ product_code: roboStar
 date: '2017-03-06T11:27:48+00:00'
 author: bdriller
 layout: product
-hero_image: /assets/img/bg/FSES_PCB_151-300x69.jpg
-features:
-    - label: Load PCB from Input-Stack into FPT.
-    - label: Unload PCB from FPT to Good- or Bad-Stack.
-    - label: Switch Jobs and PCB Sizes during operation without operator interaction
-    - label: Optional Error Tag allocation
+hero_image: /assets/img/bg/ExampleBlueBoard.png
 ---
 
 ## <span style="color: #ff6600;">***Automation for Flying Probe Testers (roboStar)*** </span>
