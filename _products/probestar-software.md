@@ -4,7 +4,7 @@ title: 'ProbeStar Software'
 date: '2012-04-25T13:40:37+00:00'
 author: CP
 layout: page
-hero_image: ExampleBlueSoft.png
+hero_image: /assets/img/bg/ExampleBlueSoft.png
 ---
 
 ## <span style="color: #ff6600;">***Introducing the ProbeStar Software***</span>
