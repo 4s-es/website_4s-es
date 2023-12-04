@@ -16,6 +16,8 @@ baseurl: "/"
 url: "https://4ses.pc-tests.tk/"
 permalink: pretty
 favicon: /assets/favicon/hosting1.png
+hero_default_image: /assets/img/bg/ExampleGreenSoft.png
+
 
 paginate: 5
 paginate_path: "/news/page:num"
@@ -75,17 +77,6 @@ defaults:
       hero_height: is-fullwidth
       image: /assets/img/bg/4ses.jpg
       hero_image: /assets/img/bg/4ses.jpg
-      show_sidebar: true
-  -
-    scope:
-      path: "/products/"
-      #type: "product"
-    values:
-      author: "4s-es"
-      layout: product
-      hero_height: is-fullwidth
-      image: /assets/img/bg/ExampleGreenSoft.png
-      hero_image: /assets/img/bg/ExampleGreenSoft.png
       show_sidebar: true
 
 markdown: kramdown
