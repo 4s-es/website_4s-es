@@ -79,7 +79,7 @@ defaults:
   -
     scope:
       path: "/products/"
-      type: "product"
+      #type: "product"
     values:
       author: "4s-es"
       layout: product
