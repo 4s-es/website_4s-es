@@ -76,6 +76,17 @@ defaults:
       image: /assets/img/bg/4ses.jpg
       hero_image: /assets/img/bg/4ses.jpg
       show_sidebar: true
+  -
+    scope:
+      path: "/products/"
+      type: "product"
+    values:
+      author: "4s-es"
+      layout: product
+      hero_height: is-fullwidth
+      image: /assets/img/bg/ExampleGreenSoft.png
+      hero_image: /assets/img/bg/ExampleGreenSoft.png
+      show_sidebar: true
 
 markdown: kramdown
 highlighter: rouge
