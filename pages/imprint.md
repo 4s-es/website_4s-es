@@ -11,17 +11,17 @@ Bernhard Driller + Seth Sheades
 ## Geschäfts-Adresse / Business Address:
 Four Stars Engineering Systems GmbH
   <br><br>
-Max-Planck-Strasse 21a
-65520 Bad Camberg
-Germany
+Max-Planck-Strasse 21a<br>
+65520 Bad Camberg<br>
+Germany<br>
   <br>
-Telephone:
-+49 (0) 6434 9053576
+Telephone:<br>
++49 (0) 6434 9053576<br>
   <br>
 Fax:
-+49 (0) 6434 9091832
++49 (0) 6434 9091832<br>
   <br>
-E-Mail:
+E-Mail:<br>
 info@4stars-es.com  
   <br><br>
 ## Geschäftsführer / Managing Partners
