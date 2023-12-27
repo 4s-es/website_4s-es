@@ -9,7 +9,7 @@ layout: product
 
 The **SCBMX** is a twenty eight axis, eight head motion controller for Flying Probe Testers.  
 It is designed for use in the Micronic Innovation Series test systems.  
-The module is perfectly driven and controlled by the FourStars-ES [OctaStar Software](http://www.4stars-es.com/products/octastar-software/).
+The module is perfectly driven and controlled by the FourStars-ES [OctaStar Software]({{site.url }}{{site.baseurl }}products/octastar-software/).
 
 #### **The main functions of the SCBMX are:**
 
@@ -18,7 +18,7 @@ The module is perfectly driven and controlled by the FourStars-ES [OctaStar Soft
 - Handling of Encoder signals
 - Test-Probe compression control
 
-[![](http://www.4stars-es.com/wp-content/uploads/2022/02/ScbMx-1024x368.jpg "GPA_LQ")](http://www.4stars-es.com/wp-content/uploads/2022/02/ScbMx-1024x368.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/02/ScbMx-1024x368.jpg "GPA_LQ")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/02/ScbMx-1024x368.jpg)
 
 <span style="color: #ff0000;"> SCBMX (modified picture sharpness to save IP)</span>
 
