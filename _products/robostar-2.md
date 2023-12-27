@@ -20,7 +20,7 @@ roboStar Automation is perfectly driven and controlled by the FourStars-ES Probe
 - Switch Jobs and PCB Sizes during operation without operator interaction
 - Optional Error Tag allocation
 
-[![](http://www.4stars-es.com/wp-content/uploads/2017/03/roboStar-779x1024.jpg "roboStar")](http://www.4stars-es.com/wp-content/uploads/2017/03/roboStar.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2017/03/roboStar-779x1024.jpg "roboStar")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2017/03/roboStar.jpg)
 
 <span style="color: #ff0000;"> roboStar Automation </span>
 
@@ -33,7 +33,7 @@ roboStar Automation is perfectly driven and controlled by the FourStars-ES Probe
 - High performance SoC for real time robot control and PCB management
 - Gigabit-Ethernet-Interface to the controlling FPT-PC
 
-#### [![](http://www.4stars-es.com/wp-content/uploads/2017/03/robot-300x258.jpg "robot")](http://www.4stars-es.com/wp-content/uploads/2017/03/robot.jpg)
+#### [![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2017/03/robot-300x258.jpg "robot")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2017/03/robot.jpg)
 
 #### **Mechanical Solution:**
 
