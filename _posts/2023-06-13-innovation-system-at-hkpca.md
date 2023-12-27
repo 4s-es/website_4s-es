@@ -15,6 +15,6 @@ categories:
 
 After 24 months of intensive R&amp;D work by FSES and Shenzhen Micronic Technology Co. Ltd., the new 8 probe Innovation Test System (driven by the OctaStar Software) made its debut at HKPCA in Shenzhen.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2023/06/20230524_094806-300x225.jpg)](http://www.4stars-es.com/wp-content/uploads/2023/06/20230524_094806.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2023/06/20230524_094806-300x225.jpg)]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2023/06/20230524_094806.jpg)
 
 Innovation Test System
