@@ -4,10 +4,6 @@ title: UMD
 date: '2012-08-29T14:47:02+00:00'
 author: bdriller
 layout: page
-guid: 'http://neu.4stars-es.com/?page_id=252'
-video_type:
-    - '#NONE#'
-    - '#NONE#'
 ---
 
 ## <span style="color: #ff6347;">***Universal Measuring Device (UMD)***</span>
@@ -26,7 +22,7 @@ The UMD is perfectly driven and controlled by the FourStars-ES ProbeStar Softwar
     - Four wire Kelvin low resistance measurements.
     - Four wire Kelvin component measurements.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2012/08/120828_UMDsmall.jpg "120828_UMDsmall")](http://www.4stars-es.com/wp-content/uploads/2012/08/120828_UMDsmall.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2012/08/120828_UMDsmall.jpg "120828_UMDsmall")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2012/08/120828_UMDsmall.jpg)
 
 #### **The UMD consists of 2 electronic parts:**
 
