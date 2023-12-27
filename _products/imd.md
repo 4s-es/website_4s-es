@@ -15,7 +15,7 @@ The IMD is perfectly driven and controlled by the FourStars-ES ProbeStar Softwar
 
 - High Resistance measurement up to 10 G-Ohm ( 10000 MOhm)
 
-[![](http://www.4stars-es.com/wp-content/uploads/2015/10/IMD_LQ-300x229.jpg "IMD_LQ")](http://www.4stars-es.com/wp-content/uploads/2015/10/IMD_LQ.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2015/10/IMD_LQ-300x229.jpg "IMD_LQ")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2015/10/IMD_LQ.jpg)
 
  <span style="color: #ff0000;"> IMD (modified picture sharpness to save IP)</span>
 
