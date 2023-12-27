@@ -16,6 +16,7 @@ categories:
 
 In the end of April, Seth Sheades made a successful two week visit to partner Micronic Enterprise Co., Ltd in order to introduce newly integrated Automation features including a Modular Vacuum Plate for small PCB handling and Integrated Compression Hardware for routed panel mounting.
 
-![](http://www.4stars-es.com/wp-content/uploads/2019/08/mmexport1556266032201-1-768x1024.jpg)![](http://www.4stars-es.com/wp-content/uploads/2019/08/mmexport1566474194304-2-768x1024.jpg)
+![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2019/08/mmexport1556266032201-1-768x1024.jpg)
+![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2019/08/mmexport1566474194304-2-768x1024.jpg)
 
 Not all the time was spent working, as we also had time for a rainy game of soccer and several trips to favorite restaurants to test his Chinese culinary skills!
