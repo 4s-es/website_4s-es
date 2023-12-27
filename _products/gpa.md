@@ -19,7 +19,7 @@ The GPA is perfectly driven and controlled by the FourStars-ES ProbeStar Softwar
 - Four-Wire low resistance measurement
 - Four-Wire component measurement
 
-[![](http://www.4stars-es.com/wp-content/uploads/2015/10/GPA_LQ-300x258.jpg "GPA_LQ")](http://www.4stars-es.com/wp-content/uploads/2015/10/GPA_LQ.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2015/10/GPA_LQ-300x258.jpg "GPA_LQ")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2015/10/GPA_LQ.jpg)
 
 <span style="color: #ff0000;"> GPA (modified picture sharpness to save IP)</span>
 
