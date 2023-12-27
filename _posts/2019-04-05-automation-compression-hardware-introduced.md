@@ -14,6 +14,6 @@ categories:
 
 In order to handle product with minimal edge clearance, FSES has worked with partner Micronic Enterprise Co., Ltd. to implement a compression solution that fits easily into the stretch frame.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2019/08/20190823_143021-300x146.jpg)](http://www.4stars-es.com/wp-content/uploads/2019/08/20190823_143021.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2019/08/20190823_143021-300x146.jpg)]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2019/08/20190823_143021.jpg)
 
 Switching between Compression and Stretch Modes is fast and easy and allows for handling of square product having down to 1mm space on the vertical edges.
