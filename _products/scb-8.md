@@ -4,9 +4,6 @@ title: SCBEVO-8
 date: '2015-10-29T13:26:37+00:00'
 author: bdriller
 layout: page
-guid: 'http://www.4stars-es.com/?page_id=578'
-video_type:
-    - '#NONE#'
 ---
 
 ## <span style="color: #ff6600;">***System Control Board (SCBEVO-8)***</span>
