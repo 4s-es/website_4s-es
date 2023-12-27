@@ -15,6 +15,6 @@ categories:
 
 FSES announces it’s latest software, **OctaStar.** This new application is used to drive the next generation Innovation Test System built by Shenzhen Micronic Technology Co., Ltd.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2022/01/Gather-300x169.jpg)](http://www.4stars-es.com/wp-content/uploads/2022/01/Gather.bmp)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/01/Gather-300x169.jpg)]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/01/Gather.bmp)
 
-See the Product Page [OctaStar Software](http://www.4stars-es.com/products/octastar-software/) for more information.
+See the Product Page [OctaStar Software]({{site.url }}{{site.baseurl }}/products/octastar-software/) for more information.
