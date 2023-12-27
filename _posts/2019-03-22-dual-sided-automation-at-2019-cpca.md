@@ -14,4 +14,4 @@ categories:
 
 The integrated Dual Sided Automation was displayed by partner Shenzhen Micronic Technology Co., Ltd. between March 19-21 at the 2019 CPCA show in Shanghai.
 
-![]({{site.url }}{{site.baseurl }}/assets/wp-content/uploads/2019/08/2019-CPCA_2-1024x768.jpg) <figcaption>Dual Sided Automation at 2019 CPCA Show</figcaption>
+![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2019/08/2019-CPCA_2-1024x768.jpg) <figcaption>Dual Sided Automation at 2019 CPCA Show</figcaption>
