@@ -11,7 +11,7 @@ hero_image: /assets/img/bg/ExampleBlueSoft.png
 
 From **Four Stars-ES** comes the OctaStar software: the latest generation of Flying Probe Software for the Micronic Innovation Series test systems. Introduced in Winter 2022, this software has been redesigned for twenty eight axis, eight head control in both dual image and single image modes.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2022/01/Gather.bmp)](http://www.4stars-es.com/wp-content/uploads/2022/01/Gather.bmp)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/01/Gather.bmp)]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/01/Gather.bmp)
 
 In addition to newer, faster motion and optimization techniques the User Interface has been updated and streamlined to allow for customer customization. The redesign also provides more screen area to display critical information that was previously unavailable.
 
