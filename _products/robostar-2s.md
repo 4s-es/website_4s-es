@@ -20,7 +20,7 @@ roboStar Automation is perfectly driven and controlled by the FourStars-ES Probe
 - Switch Jobs and PCB Sizes during operation without operator interaction
 - Optional Error Tag allocation
 
-[![](http://www.4stars-es.com/wp-content/uploads/2018/10/RoboStar-2Ssmall-1024x890.jpg "RoboStar-2S")](http://www.4stars-es.com/wp-content/uploads/2018/10/RoboStar-2Ssmall.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2018/10/RoboStar-2Ssmall-1024x890.jpg "RoboStar-2S")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2018/10/RoboStar-2Ssmall.jpg)
 
 <span style="color: #ff0000;"> roboStar-2S Automation </span>
 
