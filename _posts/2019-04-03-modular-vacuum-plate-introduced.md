@@ -14,6 +14,6 @@ categories:
 
 To extend the specifications of the Dual Sided Automation and meet ever increasing customer demands, FSES has introduced a new, modular vacuum plate. The different configurations are easily exchanged within 2-3 minutes and require no special tools for switching.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2019/08/20190823_143106-300x146.jpg)](http://www.4stars-es.com/wp-content/uploads/2019/08/20190823_143106.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2019/08/20190823_143106-300x146.jpg)]({{site.url }}{{site.baseurl }}assetswp-content/uploads/2019/08/20190823_143106.jpg)
 
 With the Four Row Vacuum Plate product may be handled down to 75mm in height.
