@@ -21,7 +21,7 @@ The module is perfectly driven and controlled by the FourStars-ES ProbeStar Soft
 - Handling of axis end- and reference-switches
 - Test-Probe compression control
 
-[![](http://www.4stars-es.com/wp-content/uploads/2015/10/SCB-8_LQ.jpg "GPA_LQ")](http://www.4stars-es.com/wp-content/uploads/2015/10/SCB-8_LQ.jpg)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2015/10/SCB-8_LQ.jpg "GPA_LQ")]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2015/10/SCB-8_LQ.jpg)
 
 <span style="color: #ff0000;"> SCBEVO-8 (modified picture sharpness to save IP)</span>
 
