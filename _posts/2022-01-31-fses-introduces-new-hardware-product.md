@@ -15,6 +15,6 @@ categories:
 
 FSES announces the release of the System Control Board **SCBMX**. This new hardware module is used to drive the next generation Innovation Test System built by Shenzhen Micronic Technology Co., Ltd.
 
-[![](http://www.4stars-es.com/wp-content/uploads/2022/02/ScbMx-1024x368.jpg)](http://www.4stars-es.com/products/scbmx/)
+[![]({{site.url }}{{site.baseurl }}assets/wp-content/uploads/2022/02/ScbMx-1024x368.jpg)]({{site.url }}{{site.baseurl }}products/scbmx/)
 
-See the Product Page [SCBMX](http://www.4stars-es.com/products/scbmx/) for more information.
+See the Product Page [SCBMX]({{site.url }}{{site.baseurl }}products/scbmx/) for more information.
